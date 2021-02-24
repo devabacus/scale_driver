@@ -56,7 +56,7 @@ class _mFirebaseState extends State<mFirebase> {
           onPressed: create_user_by_email,
           child: Text("Registration"),
         ),
-        AddUser("ivan", "abacus", 55)
+        AddUser("stas", "abacus group", 34)
       ],
     );
   }
